@@ -79,12 +79,12 @@ class MemeGenerator extends React.Component {
             name="topText"
             value={this.state.topText}
             onChange={this.handleChange} 
-            placeholder="Top text here"/>
+            placeholder=" Top text here"/>
           <input type="text"
             name="bottomText"
             value={this.state.bottomText}
             onChange={this.handleChange} 
-            placeholder="Bootom text here"/>
+            placeholder=" Bottom text here"/>
           <button onClick={this.handleSkip}>Skip</button>
           <button onClick={this.generateMeme}>Generate</button>
         </form>
