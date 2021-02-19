@@ -103,6 +103,10 @@ header > p {
     color: white;
     background: #6441A5;
 }
+.footer {
+    display: relative;
+    top: 99vh;
+}
 
 @media screen and (max-width:526px) {
     header > p {
