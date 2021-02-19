@@ -1,6 +1,6 @@
 # meme-generator
 Created with CodeSandbox
-<br>
+<br><br>
 ![](https://img.shields.io/badge/Status-Complete-green.svg) <br>
 To view demo [Clicke here](https://csb-8w8cg.netlify.app/) <br>
 To view on CodeSandbox [Click here](https://codesandbox.io/s/github/vk0808/meme-generator)
